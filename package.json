@@ -12,7 +12,7 @@
     "d3": "^3.5.6",
     "d3-jetpack": "^1.0.2",
     "isteven-angular-multiselect": "4.0.0",
-    "moment": "2.15.2",
+    "moment": "2.29.2",
     "ng-csv": "0.3.6",
     "ng-dialog": "0.6.4",
     "ng-lodash": "0.2.3",
