@@ -2,7 +2,7 @@
   "name": "ctdata-angular-template",
   "version": "0.1.0",
   "dependencies": {
-    "angular": "1.5.8",
+    "angular": "1.8.3",
     "angular-animate": "1.5.8",
     "angular-loading": "git+https://github.com/darthwade/angular-loading.git#b56e77ab19f9203a54ecdbab03d41295e81ec943",
     "angular-route": "1.5.8",
